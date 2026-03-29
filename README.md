@@ -59,8 +59,8 @@ X_pca = pca.fit_transform(X_scaled)
 # Step 5: Analyze the explained variance
 # Print the explained variance ratio for each principal component
 explained_variance = pca.explained_variance_ratio_
-print("\nName: SAIGOKUL K")
-print("Reg No: 212225240131\n")
+print("\nName: GOWTHAM U")
+print("Reg No: 212225040099")
 print("Explained Variance Ratio for each Principal Component:", explained_variance)
 print("Total Explained Variance:", sum(explained_variance))
 
